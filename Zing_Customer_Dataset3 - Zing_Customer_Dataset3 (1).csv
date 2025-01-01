@@ -1,0 +1,601 @@
+Customer ID,Gender,Age,Years with Firm,Active on Social Media,Average Transactions per Month,RFM Score,Credit Balance (AED),Customer Bio,Customer Name,Customer Username,Profile Picture on Social Media,Number of Referrals,Payback Status
+CUST0001,Female,43,9,Yes,13.11,2,468,Always learning,Customer 1,user_1,Yes,7,7
+CUST0002,Male,48,10,No,6.09,1,336,Traveler,Customer 2,user_2,No,2,Default
+CUST0003,Female,19,7,Yes,17.05,1,596,Love,Customer 3,user_3,No,3,Default
+CUST0004,Female,31,0,No,16.77,5,488,"Foodie, traveler, and passionate about personal growth",Customer 4,user_4,Yes,4,2
+CUST0005,Male,55,2,No,18.48,2,169,Love,Customer 5,customer5,No,0,Default
+CUST0006,Male,21,1,Yes,9.93,5,480,Fitness fanatic with a love for outdoor adventures,Customer 6,user_6,Yes,1,10
+CUST0007,Female,30,10,No,15.62,1,938,Fitness,Customer 7,user_7,No,0,Default
+CUST0008,Male,35,3,No,8.43,2,31,Foodie,Customer 8,user_8,No,0,Default
+CUST0009,Female,49,4,No,11.13,2,658,Shopaholic and proud,Customer 9,user_9,No,1,Default
+CUST0010,Male,24,9,No,17.69,2,655,Traveler,Customer 10,user_10,No,7,Default
+CUST0011,Male,44,10,Yes,16.31,3,187,Love,Customer 11,customer11,Yes,10,11
+CUST0012,Female,56,3,Yes,14.21,4,491,Fitness fanatic with a love for outdoor adventures,Customer 12,user_12,Yes,9,3
+CUST0013,Male,57,5,Yes,1.94,1,65,Fitness,Customer 13,user_13,No,2,8
+CUST0014,Male,33,0,Yes,14.38,2,251,Shopaholic,Customer 14,customer14,No,5,Default
+CUST0015,Female,26,6,No,10.99,3,934,Fitness,Customer 15,user_15,Yes,7,6
+CUST0016,Female,17,5,Yes,8.78,1,348,Foodie,Customer 16,user_16,No,4,Default
+CUST0017,Male,60,4,No,11.01,2,805,Fitness,Customer 17,user_17,No,9,Default
+CUST0018,Female,28,6,Yes,18.07,1,125,Music lover,Customer 18,user_18,Yes,10,Default
+CUST0019,Male,26,10,No,9.1,1,301,Shopaholic,Customer 19,customer19,No,3,6
+CUST0020,Female,55,7,No,10.04,2,315,Foodie,Customer 20,customer20,No,2,Default
+CUST0021,Female,27,8,Yes,17.69,1,685,Love,Customer 21,user_21,No,0,Default
+CUST0022,Female,48,10,No,9.81,5,877,"Avid reader, tech enthusiast, and fitness lover",Customer 22,user_22,Yes,10,6
+CUST0023,Male,56,8,Yes,11.04,4,939,Creative thinker who enjoys innovation and challenges,Customer 23,user_23,Yes,8,8
+CUST0024,Male,29,4,Yes,2.52,2,212,Enjoying the small moments,Customer 24,user_24,Yes,6,Default
+CUST0025,Female,58,6,No,19.56,1,415,Enjoying the small moments,Customer 25,user_25,Yes,1,8
+CUST0026,Female,26,3,Yes,3.56,5,410,"Avid reader, tech enthusiast, and fitness lover",Customer 26,customer26,Yes,4,10
+CUST0027,Female,57,5,No,1.91,5,307,Creative thinker who enjoys innovation and challenges,Customer 27,user_27,Yes,2,10
+CUST0028,Male,36,8,Yes,9.54,1,977,Love,Customer 28,user_28,No,10,Default
+CUST0029,Male,28,10,Yes,2.61,2,218,Passionate about photography,Customer 29,user_29,No,9,Default
+CUST0030,Female,22,10,Yes,8.43,2,728,,Customer 30,user_30,Yes,10,Default
+CUST0031,Female,29,0,No,11.73,3,952,Love,Customer 31,user_31,Yes,5,8
+CUST0032,Male,17,4,No,10.05,1,707,Bookworm,Customer 32,user_32,No,10,Default
+CUST0033,Female,31,4,No,4.44,1,750,Bookworm,Customer 33,user_33,Yes,2,Default
+CUST0034,Male,28,3,Yes,9.48,1,139,Enjoying the small moments,Customer 34,user_34,Yes,10,Default
+CUST0035,Female,64,9,Yes,2.73,1,512,Traveler and dreamer,Customer 35,user_35,Yes,4,Default
+CUST0036,Male,33,1,Yes,13.66,2,473,Enjoying the small moments,Customer 36,user_36,Yes,7,8
+CUST0037,Male,18,2,Yes,1.13,2,453,Enjoying,Customer 37,user_37,No,10,Default
+CUST0038,Female,61,1,Yes,3.65,2,565,Enjoying the small moments,Customer 38,customer38,No,6,Default
+CUST0039,Female,17,7,Yes,8.07,5,664,Tech geek who loves exploring cutting-edge solutions,Customer 39,user_39,Yes,2,4
+CUST0040,Male,40,9,No,7.14,1,274,Shopaholic,Customer 40,user_40,No,8,Default
+CUST0041,Male,18,1,Yes,14.61,2,363,Tech geek,Customer 41,customer41,Yes,8,Default
+CUST0042,Female,55,0,No,13.64,2,625,Shopaholic and proud,Customer 42,customer42,Yes,10,4
+CUST0043,Female,62,7,No,6.71,1,559,Love exploring new places,Customer 43,user_43,No,3,Default
+CUST0044,Female,47,1,No,13.03,2,702,Music lover,Customer 44,customer44,No,0,Default
+CUST0045,Male,43,9,No,4.47,1,873,Always learning,Customer 45,user_45,Yes,8,Default
+CUST0046,Male,53,2,No,14.64,1,827,Shopaholic,Customer 46,user_46,No,7,5
+CUST0047,Male,32,1,Yes,9.32,1,91,Enjoying,Customer 47,user_47,No,4,7
+CUST0048,Female,58,4,No,10.41,2,112,Foodie,Customer 48,user_48,No,9,Default
+CUST0049,Female,18,9,No,6.16,2,861,Enjoying the small moments,Customer 49,user_49,No,6,10
+CUST0050,Female,40,10,No,17.22,3,432,Traveler,Customer 50,customer50,Yes,9,4
+CUST0051,Female,18,0,No,15.48,5,887,Fitness fanatic with a love for outdoor adventures,Customer 51,user_51,Yes,5,11
+CUST0052,Female,56,7,No,6.28,4,498,Tech geek who loves exploring cutting-edge solutions,Customer 52,user_52,Yes,9,11
+CUST0053,Male,18,5,Yes,13.38,1,936,Love,Customer 53,user_53,No,7,8
+CUST0054,Male,23,2,No,6.16,4,202,Fitness fanatic with a love for outdoor adventures,Customer 54,user_54,Yes,0,3
+CUST0055,Male,64,7,Yes,15.57,3,457,Traveler,Customer 55,user_55,Yes,9,6
+CUST0056,Female,59,7,Yes,13.46,5,598,Passionate about sustainable living and healthy eating,Customer 56,user_56,Yes,8,3
+CUST0057,Female,48,10,No,1.79,2,930,Foodie,Customer 57,user_57,No,8,11
+CUST0058,Female,61,9,Yes,3.76,1,520,Enjoying,Customer 58,user_58,No,7,Default
+CUST0059,Female,57,8,Yes,10.99,4,506,Passionate about sustainable living and healthy eating,Customer 59,user_59,Yes,8,4
+CUST0060,Male,39,2,Yes,2.94,2,568,Foodie,Customer 60,user_60,No,2,Default
+CUST0061,Male,33,9,Yes,9.5,2,280,Tech geek,Customer 61,user_61,Yes,0,Default
+CUST0062,Female,45,10,Yes,8.78,3,878,Foodie,Customer 62,user_62,Yes,5,2
+CUST0063,Female,28,10,No,7.12,2,406,Fitness enthusiast,Customer 63,user_63,Yes,4,Default
+CUST0064,Female,56,9,No,8.58,5,830,Always learning and sharing my experiences,Customer 64,user_64,Yes,4,1
+CUST0065,Male,30,3,Yes,4.31,2,680,Fitness,Customer 65,user_65,No,0,2
+CUST0066,Male,20,8,Yes,18.79,5,280,Fitness fanatic with a love for outdoor adventures,Customer 66,user_66,Yes,0,10
+CUST0067,Female,20,8,Yes,17.6,1,620,Food lover,Customer 67,user_67,No,6,Default
+CUST0068,Male,28,0,Yes,18.67,1,971,Shopaholic,Customer 68,user_68,No,10,Default
+CUST0069,Male,48,2,No,8.62,2,560,Music lover,Customer 69,customer69,Yes,5,Default
+CUST0070,Female,50,7,Yes,1.62,4,667,Passionate about sustainable living and healthy eating,Customer 70,user_70,Yes,8,4
+CUST0071,Female,34,5,No,2,3,94,Love,Customer 71,user_71,Yes,3,12
+CUST0072,Female,30,3,No,18.13,1,89,Music lover,Customer 72,user_72,Yes,6,9
+CUST0073,Male,45,0,Yes,17.06,1,860,Love,Customer 73,user_73,No,6,Default
+CUST0074,Male,60,2,No,15.62,2,967,Shopaholic,Customer 74,user_74,No,0,Default
+CUST0075,Female,52,9,Yes,2.26,1,828,Enjoying,Customer 75,customer75,No,7,3
+CUST0076,Female,46,9,Yes,16.33,2,37,Enjoying,Customer 76,user_76,No,6,Default
+CUST0077,Female,52,10,Yes,8.13,2,139,Bookworm,Customer 77,user_77,No,5,Default
+CUST0078,Female,24,9,Yes,13.64,5,478,Creative thinker who enjoys innovation and challenges,Customer 78,user_78,Yes,5,3
+CUST0079,Female,56,10,No,15.99,1,952,Love,Customer 79,user_79,No,1,Default
+CUST0080,Female,17,2,No,3.44,2,995,Love,Customer 80,customer80,No,7,Default
+CUST0081,Female,44,10,No,19.46,1,768,Foodie,Customer 81,user_81,No,3,Default
+CUST0082,Female,21,9,No,11.19,2,655,Fitness,Customer 82,user_82,No,1,Default
+CUST0083,Female,52,8,Yes,12.68,1,958,Foodie,Customer 83,user_83,No,0,3
+CUST0084,Male,64,9,Yes,18.14,3,925,Love,Customer 84,user_84,Yes,2,9
+CUST0085,Male,32,6,No,6.59,5,579,"Foodie, traveler, and passionate about personal growth",Customer 85,user_85,Yes,5,11
+CUST0086,Male,54,7,Yes,15.28,1,816,Music lover,Customer 86,user_86,No,7,Default
+CUST0087,Male,21,4,Yes,14.98,2,565,Love exploring new places,Customer 87,user_87,No,8,Default
+CUST0088,Female,49,0,No,4.28,2,50,Fitness,Customer 88,user_88,No,2,Default
+CUST0089,Female,50,3,Yes,1.17,2,297,Shopaholic and proud,Customer 89,user_89,Yes,1,Default
+CUST0090,Female,46,4,Yes,14.41,2,703,Shopaholic,Customer 90,user_90,Yes,6,10
+CUST0091,Male,23,2,No,2.04,1,543,Love,Customer 91,user_91,No,0,Default
+CUST0092,Male,33,6,No,14.04,2,26,Traveler,Customer 92,user_92,Yes,8,Default
+CUST0093,Male,34,2,Yes,15.75,4,543,Adventure seeker and nature enthusiast,Customer 93,user_93,Yes,7,10
+CUST0094,Male,23,2,No,17.3,,151,Music lover,Customer 94,user_94,Yes,6,Default
+CUST0095,Female,49,1,Yes,18.31,1,531,Love,Customer 95,customer95,No,3,8
+CUST0096,Female,59,3,Yes,7.28,1,946,Shopaholic,Customer 96,customer96,No,1,Default
+CUST0097,Female,56,6,No,11.52,4,598,Creative thinker who enjoys innovation and challenges,Customer 97,user_97,Yes,7,3
+CUST0098,Male,27,10,Yes,12.6,2,233,Love,Customer 98,user_98,No,10,4
+CUST0099,Male,33,0,Yes,2.97,5,763,Fitness fanatic with a love for outdoor adventures,Customer 99,user_99,Yes,3,7
+CUST0100,Female,20,4,Yes,18.84,1,154,Fitness,Customer 100,user_100,No,3,Default
+CUST0101,Male,37,8,No,15.7,4,68,Creative thinker who enjoys innovation and challenges,Customer 101,user_101,Yes,1,9
+CUST0102,Male,57,4,No,7.17,2,769,Shopaholic,Customer 102,user_102,No,10,Default
+CUST0103,Female,30,7,No,13.64,2,250,Enjoying,Customer 103,user_103,No,8,Default
+CUST0104,Female,44,1,Yes,19.58,2,887,Music lover,Customer 104,user_104,No,3,Default
+CUST0105,Male,27,10,Yes,3.4,3,-2,Fitness,Customer 105,customer105,Yes,1,10
+CUST0106,Female,62,2,No,10.32,5,415,"Loves photography, music, and exploring new cultures",Customer 106,customer106,Yes,3,7
+CUST0107,Female,50,2,Yes,2.91,1,596,Shopaholic,Customer 107,user_107,No,5,Default
+CUST0108,Male,17,6,Yes,12.72,1,502,Foodie,Customer 108,user_108,Yes,9,6
+CUST0109,Female,40,4,No,5.12,2,400,Shopaholic,Customer 109,customer109,No,10,Default
+CUST0110,Female,20,3,Yes,11.58,5,890,"Avid reader, tech enthusiast, and fitness lover",Customer 110,user_110,Yes,1,3
+CUST0111,Female,53,5,Yes,11.03,3,252,Shopaholic,Customer 111,customer111,Yes,8,2
+CUST0112,Male,41,9,No,5.61,5,960,Tech geek who loves exploring cutting-edge solutions,Customer 112,user_112,Yes,1,8
+CUST0113,Male,61,4,Yes,16.1,5,785,"Loves photography, music, and exploring new cultures",Customer 113,user_113,Yes,4,7
+CUST0114,Male,53,10,No,8.46,2,711,Food lover,Customer 114,user_114,No,1,Default
+CUST0115,Female,19,1,Yes,17.1,5,395,Always learning and sharing my experiences,Customer 115,user_115,Yes,0,11
+CUST0116,Female,47,10,Yes,6.87,4,582,"Avid reader, tech enthusiast, and fitness lover",Customer 116,user_116,Yes,1,11
+CUST0117,Female,60,4,No,7.5,2,565,Food lover,Customer 117,user_117,Yes,7,Default
+CUST0118,Female,51,8,No,16.32,2,907,Passionate about photography,Customer 118,user_118,No,3,Default
+CUST0119,Male,31,3,Yes,14.63,2,247,Fitness,Customer 119,user_119,No,9,Default
+CUST0120,Male,29,5,Yes,9.88,1,259,Fitness,Customer 120,user_120,No,8,Default
+CUST0121,Male,38,1,Yes,3.8,1,862,Enjoying,Customer 121,user_121,No,7,8
+CUST0122,Female,59,0,No,16.92,4,132,Adventure seeker and nature enthusiast,Customer 122,user_122,Yes,2,8
+CUST0123,Female,48,8,Yes,4.34,2,961,Fitness,Customer 123,customer123,No,7,6
+CUST0124,Female,24,5,Yes,10.67,2,940,Foodie,Customer 124,user_124,No,2,Default
+CUST0125,Female,24,10,No,3.45,5,719,Fitness fanatic with a love for outdoor adventures,Customer 125,user_125,Yes,0,4
+CUST0126,Female,31,9,No,9.65,4,180,"Foodie, traveler, and passionate about personal growth",Customer 126,customer126,Yes,6,8
+CUST0127,Male,24,8,No,8.23,3,484,Love,Customer 127,customer127,Yes,10,6
+CUST0128,Male,40,10,Yes,1.87,1,822,Shopaholic and proud,Customer 128,user_128,No,9,Default
+CUST0129,Male,48,7,No,10.4,2,975,Love,Customer 129,customer129,No,1,8
+CUST0130,Female,34,5,Yes,7.09,2,809,Traveler,Customer 130,user_130,No,5,Default
+CUST0131,Male,49,9,No,13.12,1,567,Love,Customer 131,user_131,No,8,2
+CUST0132,Male,41,0,Yes,10.01,,170,Fitness enthusiast,Customer 132,user_132,Yes,1,Default
+CUST0133,Male,41,3,Yes,12.73,2,798,Traveler and dreamer,Customer 133,user_133,Yes,2,Default
+CUST0134,Female,34,10,Yes,19.68,2,732,Shopaholic,Customer 134,customer134,No,3,Default
+CUST0135,Male,60,8,No,17.61,1,808,Shopaholic,Customer 135,customer135,No,3,Default
+CUST0136,Female,49,5,No,13.97,5,187,Passionate about sustainable living and healthy eating,Customer 136,customer136,Yes,1,5
+CUST0137,Female,31,9,No,11.37,3,785,Traveler,Customer 137,user_137,Yes,10,3
+CUST0138,Female,17,7,Yes,12.91,2,76,Fitness,Customer 138,user_138,No,9,7
+CUST0139,Male,60,6,Yes,15.43,1,572,Shopaholic,Customer 139,user_139,No,7,Default
+CUST0140,Female,19,0,No,18.62,3,518,Traveler,Customer 140,user_140,Yes,1,11
+CUST0141,Female,38,2,No,4.33,,910,Love,Customer 141,user_141,No,0,Default
+CUST0142,Female,18,8,Yes,2.28,4,882,Loves exploring new cuisines and traveling the world,Customer 142,user_142,Yes,2,7
+CUST0143,Male,60,6,No,17.83,4,808,Fitness fanatic with a love for outdoor adventures,Customer 143,user_143,Yes,9,3
+CUST0144,Female,22,0,No,15.07,2,773,Tech geek,Customer 144,user_144,No,4,Default
+CUST0145,Male,21,7,No,13.63,5,224,Always learning and sharing my experiences,Customer 145,customer145,Yes,0,3
+CUST0146,Male,22,4,No,16.64,,807,Traveler,Customer 146,user_146,No,7,Default
+CUST0147,Male,27,9,Yes,6.25,1,253,Traveler,Customer 147,user_147,No,6,Default
+CUST0148,Female,29,4,Yes,13.8,2,570,Foodie,Customer 148,user_148,No,3,8
+CUST0149,Female,33,5,No,2.6,2,222,Fitness,Customer 149,user_149,No,8,Default
+CUST0150,Female,42,7,No,17.51,1,595,,Customer 150,user_150,No,9,Default
+CUST0151,Female,41,9,No,3.26,5,28,Always learning and sharing my experiences,Customer 151,user_151,Yes,2,6
+CUST0152,Male,31,4,Yes,7.11,1,865,Shopaholic,Customer 152,customer152,No,0,Default
+CUST0153,Male,45,3,Yes,8.77,2,790,Traveler,Customer 153,user_153,Yes,10,12
+CUST0154,Male,20,0,Yes,6.9,2,386,Traveler,Customer 154,user_154,No,9,5
+CUST0155,Female,39,9,Yes,1.83,1,142,Traveler,Customer 155,user_155,Yes,1,12
+CUST0156,Female,17,0,No,1.14,5,489,Loves exploring new cuisines and traveling the world,Customer 156,customer156,Yes,3,10
+CUST0157,Female,46,6,Yes,18.23,1,901,Shopaholic,Customer 157,user_157,No,8,Default
+CUST0158,Male,26,3,No,18.09,4,68,Tech geek who loves exploring cutting-edge solutions,Customer 158,user_158,Yes,8,9
+CUST0159,Male,46,1,Yes,15.39,1,210,Shopaholic and proud,Customer 159,user_159,No,1,Default
+CUST0160,Male,30,1,No,6.13,2,64,Love,Customer 160,user_160,No,7,1
+CUST0161,Male,51,4,No,10.22,1,351,Fitness,Customer 161,user_161,No,10,Default
+CUST0162,Male,42,6,Yes,18.22,3,198,Fitness,Customer 162,user_162,Yes,9,11
+CUST0163,Male,42,10,Yes,7.89,1,588,Shopaholic,Customer 163,user_163,No,9,Default
+CUST0164,Male,50,3,No,2.52,2,59,Traveler,Customer 164,user_164,Yes,2,Default
+CUST0165,Female,31,5,No,15.06,3,77,Traveler,Customer 165,user_165,Yes,1,8
+CUST0166,Male,39,5,No,15.61,1,762,Shopaholic,Customer 166,user_166,No,8,Default
+CUST0167,Male,33,0,No,15.7,4,449,"Avid reader, tech enthusiast, and fitness lover",Customer 167,user_167,Yes,2,1
+CUST0168,Male,23,8,No,7.84,2,661,Traveler,Customer 168,user_168,No,5,1
+CUST0169,Male,39,2,Yes,10.83,2,4,Always learning,Customer 169,user_169,No,4,11
+CUST0170,Male,30,2,Yes,5.81,1,222,Always learning,Customer 170,user_170,Yes,7,Default
+CUST0171,Male,44,0,Yes,11.2,2,718,Enjoying the small moments,Customer 171,customer171,No,10,2
+CUST0172,Female,44,9,Yes,6.04,1,83,Traveler,Customer 172,user_172,No,1,Default
+CUST0173,Male,55,0,Yes,14.14,3,788,Fitness,Customer 173,user_173,Yes,2,3
+CUST0174,Female,26,5,No,1.08,3,616,Enjoying,Customer 174,customer174,Yes,8,11
+CUST0175,Male,48,0,No,5.14,1,981,Love,Customer 175,user_175,No,4,10
+CUST0176,Female,52,7,Yes,12.57,2,394,Traveler,Customer 176,user_176,No,3,Default
+CUST0177,Male,64,10,Yes,16.64,1,927,Traveler,Customer 177,customer177,Yes,10,2
+CUST0178,Male,50,10,No,18.68,1,502,Enjoying the small moments,Customer 178,user_178,No,0,Default
+CUST0179,Male,47,10,Yes,14.97,2,60,Shopaholic,Customer 179,user_179,Yes,0,Default
+CUST0180,Female,30,10,No,6.08,5,421,Creative thinker who enjoys innovation and challenges,Customer 180,user_180,Yes,3,3
+CUST0181,Male,24,6,No,15.72,1,30,Always learning,Customer 181,user_181,No,3,Default
+CUST0182,Female,20,4,Yes,1.13,2,115,Fitness,Customer 182,user_182,No,5,Default
+CUST0183,Female,63,4,Yes,1.42,1,691,Passionate about photography,Customer 183,user_183,Yes,4,Default
+CUST0184,Female,19,4,Yes,15.32,1,351,Shopaholic,Customer 184,user_184,No,7,8
+CUST0185,Male,57,4,No,5.61,2,282,Shopaholic,Customer 185,user_185,No,8,Default
+CUST0186,Male,38,0,Yes,8.22,1,667,Adventure seeker,Customer 186,user_186,No,1,Default
+CUST0187,Female,21,10,Yes,2.62,1,186,Shopaholic and proud,Customer 187,user_187,Yes,6,Default
+CUST0188,Male,48,6,No,14.5,1,644,Shopaholic,Customer 188,user_188,No,6,Default
+CUST0189,Female,59,3,Yes,5.82,2,691,Adventure seeker,Customer 189,user_189,No,3,Default
+CUST0190,Female,41,6,No,11.98,1,749,Music lover,Customer 190,user_190,Yes,2,Default
+CUST0191,Female,38,4,No,15.85,4,707,Fitness fanatic with a love for outdoor adventures,Customer 191,user_191,Yes,8,8
+CUST0192,Female,50,3,Yes,18.77,2,223,Tech geek,Customer 192,user_192,Yes,2,Default
+CUST0193,Female,47,10,Yes,18.35,1,932,Passionate about photography,Customer 193,customer193,Yes,5,Default
+CUST0194,Male,26,8,Yes,16.87,1,646,Foodie,Customer 194,user_194,No,10,Default
+CUST0195,Male,62,7,No,11.12,3,454,Enjoying,Customer 195,user_195,Yes,9,12
+CUST0196,Male,50,1,No,14.24,2,117,Enjoying,Customer 196,user_196,No,6,2
+CUST0197,Male,44,9,Yes,4.8,3,256,Love,Customer 197,user_197,Yes,5,7
+CUST0198,Male,24,7,No,7.47,3,806,Shopaholic,Customer 198,user_198,Yes,3,8
+CUST0199,Female,34,7,No,1.19,1,330,Food lover,Customer 199,user_199,Yes,5,Default
+CUST0200,Male,55,1,No,14.68,1,608,Shopaholic,Customer 200,user_200,No,5,11
+CUST0201,Male,54,5,Yes,5.05,2,62,Fitness,Customer 201,customer201,No,3,6
+CUST0202,Female,33,4,No,7.11,1,436,Foodie,Customer 202,user_202,No,0,Default
+CUST0203,Male,37,5,No,12.49,4,162,"Loves photography, music, and exploring new cultures",Customer 203,customer203,Yes,5,10
+CUST0204,Male,46,5,No,12.88,2,29,Enjoying the small moments,Customer 204,user_204,Yes,5,Default
+CUST0205,Female,58,10,Yes,1.19,3,304,Enjoying,Customer 205,user_205,Yes,6,4
+CUST0206,Female,54,4,Yes,7.57,2,820,Bookworm,Customer 206,customer206,No,0,3
+CUST0207,Female,29,3,Yes,103589.7093,2,989,Adventure seeker,Customer 207,user_207,Yes,2,4
+CUST0208,Female,31,0,No,19.17,1,141,Traveler and dreamer,Customer 208,user_208,Yes,9,Default
+CUST0209,Female,39,2,Yes,15.82,2,685,Shopaholic and proud,Customer 209,user_209,No,4,7
+CUST0210,Male,21,3,No,14.3,5,532,Always learning and sharing my experiences,Customer 210,user_210,Yes,2,3
+CUST0211,Female,58,3,No,9.48,2,667,Adventure seeker,Customer 211,user_211,Yes,3,Default
+CUST0212,Male,19,8,Yes,13.31,2,550,Food lover,Customer 212,user_212,Yes,2,Default
+CUST0213,Male,49,10,Yes,1.94,5,63,"Foodie, traveler, and passionate about personal growth",Customer 213,customer213,Yes,9,3
+CUST0214,Female,50,5,No,19.76,3,605,Traveler,Customer 214,user_214,Yes,2,5
+CUST0215,Male,51,10,No,14.42,3,251,Fitness,Customer 215,user_215,Yes,8,12
+CUST0216,Male,35,1,Yes,8.67,1,595,Enjoying,Customer 216,customer216,No,8,Default
+CUST0217,Male,17,1,Yes,13.68,4,982,Always learning and sharing my experiences,Customer 217,user_217,Yes,6,2
+CUST0218,Male,54,2,No,17.22,3,162,Enjoying,Customer 218,user_218,Yes,7,4
+CUST0219,Male,20,4,No,6.93,4,981,"Loves photography, music, and exploring new cultures",Customer 219,user_219,Yes,3,11
+CUST0220,Female,18,3,No,6.36,1,463,,Customer 220,user_220,No,2,Default
+CUST0221,Male,43,0,Yes,3.47,1,651,Tech geek,Customer 221,user_221,No,7,Default
+CUST0222,Female,40,3,No,12.95,5,767,Always learning and sharing my experiences,Customer 222,user_222,Yes,9,5
+CUST0223,Female,43,1,Yes,7.8,1,717,Traveler,Customer 223,user_223,No,5,Default
+CUST0224,Female,34,5,No,9.55,2,468,Traveler,Customer 224,user_224,No,7,6
+CUST0225,Female,27,2,Yes,14.82,4,231,Fitness fanatic with a love for outdoor adventures,Customer 225,customer225,Yes,9,1
+CUST0226,Female,20,9,Yes,8.91,2,218,Enjoying the small moments,Customer 226,user_226,No,6,6
+CUST0227,Female,63,4,No,8.51,2,368,Food lover,Customer 227,customer227,No,2,Default
+CUST0228,Female,30,2,No,17.22,3,-3,Shopaholic,Customer 228,user_228,Yes,2,8
+CUST0229,Female,20,1,Yes,10.36,2,722,Foodie,Customer 229,customer229,Yes,7,11
+CUST0230,Female,17,9,No,8.17,5,890,"Avid reader, tech enthusiast, and fitness lover",Customer 230,user_230,Yes,1,10
+CUST0231,Male,38,3,No,13.05,2,603,Tech geek,Customer 231,user_231,No,8,Default
+CUST0232,Male,47,8,No,10.92,5,973,Tech geek who loves exploring cutting-edge solutions,Customer 232,user_232,Yes,0,7
+CUST0233,Female,46,3,Yes,9.94,1,954,Bookworm,Customer 233,user_233,No,8,Default
+CUST0234,Female,30,8,Yes,16.41,4,406,"Avid reader, tech enthusiast, and fitness lover",Customer 234,customer234,Yes,1,7
+CUST0235,Female,63,2,Yes,4.12,2,930,Enjoying,Customer 235,user_235,No,3,Default
+CUST0236,Female,40,8,No,1.51,4,114,"Avid reader, tech enthusiast, and fitness lover",Customer 236,customer236,Yes,10,4
+CUST0237,Female,43,3,No,4.52,1,377,Shopaholic and proud,Customer 237,user_237,No,6,5
+CUST0238,Male,38,0,No,8.73,4,730,Passionate about sustainable living and healthy eating,Customer 238,user_238,Yes,6,11
+CUST0239,Female,52,3,Yes,11.36,1,466,Foodie,Customer 239,user_239,No,4,Default
+CUST0240,Male,36,4,No,10.8,1,890,Passionate about photography,Customer 240,customer240,Yes,2,Default
+CUST0241,Female,58,8,No,5.11,3,275,Enjoying,Customer 241,customer241,Yes,9,2
+CUST0242,Male,34,1,Yes,11.19,2,314,,Customer 242,user_242,Yes,6,Default
+CUST0243,Female,38,10,Yes,2.24,1,7,Adventure seeker,Customer 243,user_243,Yes,7,Default
+CUST0244,Male,42,4,No,12.39,3,424,Fitness,Customer 244,user_244,Yes,3,2
+CUST0245,Male,30,8,Yes,18.01,3,12,Love,Customer 245,user_245,Yes,6,2
+CUST0246,Male,32,7,No,6.03,1,626,,Customer 246,user_246,Yes,4,Default
+CUST0247,Male,27,2,Yes,1.02,1,941,Love,Customer 247,user_247,No,6,5
+CUST0248,Male,18,2,Yes,5.14,4,774,"Loves photography, music, and exploring new cultures",Customer 248,user_248,Yes,0,6
+CUST0249,Female,21,4,No,19.36,2,180,Shopaholic,Customer 249,user_249,No,4,Default
+CUST0250,Female,55,1,No,15.11,2,286,Shopaholic,Customer 250,customer250,No,1,Default
+CUST0251,Male,50,1,Yes,2.65,1,762,Foodie,Customer 251,user_251,No,6,9
+CUST0252,Female,26,6,No,11.42,3,695,Traveler,Customer 252,user_252,Yes,0,4
+CUST0253,Male,54,3,Yes,14.91,3,832,Traveler,Customer 253,user_253,Yes,1,1
+CUST0254,Male,60,5,No,5.99,1,263,Traveler,Customer 254,user_254,No,0,Default
+CUST0255,Male,18,9,Yes,14.59,,140,Enjoying,Customer 255,customer255,No,5,Default
+CUST0256,Female,54,4,No,15.3,2,498,Enjoying the small moments,Customer 256,user_256,Yes,9,11
+CUST0257,Male,24,5,No,1.17,2,390,Love,Customer 257,user_257,No,1,Default
+CUST0258,Female,35,1,No,14.09,,719,Enjoying,Customer 258,user_258,No,4,Default
+CUST0259,Female,62,9,No,18.89,2,146,Shopaholic,Customer 259,user_259,No,7,Default
+CUST0260,Female,48,1,No,1.23,2,139,Foodie,Customer 260,user_260,No,1,Default
+CUST0261,Male,26,10,Yes,2.4,5,60,Fitness fanatic with a love for outdoor adventures,Customer 261,customer261,Yes,3,9
+CUST0262,Female,23,3,No,13.07,1,301,Adventure seeker,Customer 262,user_262,No,7,Default
+CUST0263,Male,32,8,Yes,114863.8691,1,284,Enjoying,Customer 263,user_263,No,5,Default
+CUST0264,Male,42,8,No,2.68,2,694,Shopaholic,Customer 264,user_264,No,4,4
+CUST0265,Female,29,1,No,16.5,2,681,Traveler,Customer 265,user_265,No,0,10
+CUST0266,Male,62,7,No,4.78,4,622,Tech geek who loves exploring cutting-edge solutions,Customer 266,user_266,Yes,5,1
+CUST0267,Male,26,0,No,13.94,3,606,Fitness,Customer 267,user_267,Yes,8,7
+CUST0268,Female,36,3,No,15.33,2,895,Always learning,Customer 268,user_268,No,9,10
+CUST0269,Male,37,7,No,16.16,1,468,Bookworm,Customer 269,user_269,No,5,3
+CUST0270,Male,33,5,Yes,9.25,2,693,Enjoying,Customer 270,customer270,No,10,11
+CUST0271,Female,52,3,No,9.41,5,697,"Loves photography, music, and exploring new cultures",Customer 271,user_271,Yes,5,10
+CUST0272,Male,55,4,Yes,11.29,3,64,Traveler,Customer 272,user_272,Yes,5,6
+CUST0273,Male,42,10,No,14.36,5,732,Tech geek who loves exploring cutting-edge solutions,Customer 273,user_273,Yes,8,10
+CUST0274,Female,32,7,No,17.9,1,642,Traveler and dreamer,Customer 274,user_274,Yes,3,7
+CUST0275,Male,17,4,Yes,7.79,1,805,Fitness enthusiast,Customer 275,user_275,Yes,5,4
+CUST0276,Male,48,5,No,4.78,4,724,"Avid reader, tech enthusiast, and fitness lover",Customer 276,user_276,Yes,9,10
+CUST0277,Male,47,2,No,15.97,3,147,Love,Customer 277,customer277,Yes,5,1
+CUST0278,Male,53,4,Yes,7.74,1,113,Enjoying,Customer 278,user_278,No,9,Default
+CUST0279,Female,42,4,Yes,15.13,1,19,Tech geek,Customer 279,user_279,Yes,5,Default
+CUST0280,Female,40,0,Yes,5.75,4,812,Creative thinker who enjoys innovation and challenges,Customer 280,customer280,Yes,3,12
+CUST0281,Female,28,0,Yes,10.35,4,677,Tech geek who loves exploring cutting-edge solutions,Customer 281,customer281,Yes,8,8
+CUST0282,Male,23,4,Yes,2.83,5,414,Always learning and sharing my experiences,Customer 282,customer282,Yes,1,4
+CUST0283,Female,37,2,No,11.08,2,198,Shopaholic,Customer 283,user_283,No,9,Default
+CUST0284,Female,57,7,No,17.4,2,141,Love,Customer 284,user_284,No,9,Default
+CUST0285,Male,42,6,No,16.32,3,913,Enjoying,Customer 285,user_285,Yes,8,1
+CUST0286,Male,22,1,No,14.8,1,242,Love,Customer 286,user_286,No,2,7
+CUST0287,Male,24,7,No,5.9,4,138,"Avid reader, tech enthusiast, and fitness lover",Customer 287,user_287,Yes,0,11
+CUST0288,Female,32,3,No,2.22,1,519,Love,Customer 288,customer288,No,4,Default
+CUST0289,Female,17,7,No,10.58,4,959,Always learning and sharing my experiences,Customer 289,customer289,Yes,4,9
+CUST0290,Male,53,0,Yes,16.29,4,653,"Avid reader, tech enthusiast, and fitness lover",Customer 290,user_290,Yes,8,6
+CUST0291,Male,56,9,Yes,11.02,2,848,Love,Customer 291,user_291,No,7,Default
+CUST0292,Female,60,7,No,5.61,3,62,Fitness,Customer 292,user_292,Yes,1,1
+CUST0293,Male,51,9,Yes,11.25,2,265,Love,Customer 293,customer293,No,1,Default
+CUST0294,Female,38,6,No,12.74,2,63,Love,Customer 294,user_294,No,3,Default
+CUST0295,Male,40,3,No,7.11,2,26,Traveler,Customer 295,user_295,No,5,7
+CUST0296,Male,53,7,No,7.72,5,383,Creative thinker who enjoys innovation and challenges,Customer 296,customer296,Yes,5,9
+CUST0297,Male,22,4,No,16.5,3,214,Love,Customer 297,user_297,Yes,6,4
+CUST0298,Female,31,7,No,1.24,,904,Traveler,Customer 298,user_298,No,0,4
+CUST0299,Male,28,10,No,18.89,4,329,Creative thinker who enjoys innovation and challenges,Customer 299,user_299,Yes,9,10
+CUST0300,Female,55,8,Yes,13.31,1,531,Enjoying the small moments,Customer 300,user_300,Yes,8,6
+CUST0301,Male,23,10,Yes,19.52,1,444,Passionate about photography,Customer 301,customer301,No,5,8
+CUST0302,Female,54,2,Yes,1.19,4,504,Loves exploring new cuisines and traveling the world,Customer 302,user_302,Yes,9,5
+CUST0303,Male,45,9,Yes,13.86,4,962,Passionate about sustainable living and healthy eating,Customer 303,user_303,Yes,8,1
+CUST0304,Female,56,9,Yes,3.77,1,558,Always learning,Customer 304,user_304,No,3,Default
+CUST0305,Male,38,10,Yes,8.91,2,928,Love,Customer 305,user_305,No,6,Default
+CUST0306,Male,42,1,No,15.33,5,178,"Foodie, traveler, and passionate about personal growth",Customer 306,user_306,Yes,5,6
+CUST0307,Female,33,8,No,2.87,1,469,Shopaholic and proud,Customer 307,user_307,Yes,3,1
+CUST0308,Male,50,4,Yes,8.24,1,14,Love exploring new places,Customer 308,user_308,Yes,10,Default
+CUST0309,Female,46,0,Yes,2.32,4,625,"Avid reader, tech enthusiast, and fitness lover",Customer 309,customer309,Yes,10,3
+CUST0310,Female,62,6,No,15.81,2,514,Always learning,Customer 310,user_310,No,0,Default
+CUST0311,Female,49,7,Yes,16.72,2,286,Shopaholic and proud,Customer 311,customer311,Yes,10,Default
+CUST0312,Female,31,1,No,14.61,2,412,Traveler,Customer 312,user_312,No,8,Default
+CUST0313,Female,29,9,No,10.44,,55,Traveler,Customer 313,customer313,Yes,10,3
+CUST0314,Male,58,6,No,19.2,1,434,Foodie,Customer 314,user_314,No,3,Default
+CUST0315,Male,59,3,Yes,3.75,1,874,Bookworm,Customer 315,user_315,Yes,0,Default
+CUST0316,Male,57,4,Yes,6.94,2,912,Enjoying the small moments,Customer 316,user_316,Yes,4,Default
+CUST0317,Male,53,7,No,16.42,5,229,Adventure seeker and nature enthusiast,Customer 317,customer317,Yes,2,4
+CUST0318,Male,49,5,Yes,9.98,2,748,Love,Customer 318,user_318,No,5,8
+CUST0319,Male,59,0,No,19.1,2,685,Fitness enthusiast,Customer 319,user_319,No,9,Default
+CUST0320,Male,51,10,No,3.12,4,867,Fitness fanatic with a love for outdoor adventures,Customer 320,user_320,Yes,2,5
+CUST0321,Male,24,5,Yes,13.52,5,554,Always learning and sharing my experiences,Customer 321,user_321,Yes,10,9
+CUST0322,Female,27,5,No,4.7,3,835,Enjoying,Customer 322,customer322,Yes,10,6
+CUST0323,Female,51,1,Yes,19.67,,436,,Customer 323,user_323,Yes,1,Default
+CUST0324,Male,51,4,Yes,9.08,2,689,Traveler,Customer 324,user_324,No,5,12
+CUST0325,Female,35,2,Yes,102162.445,3,202,Enjoying,Customer 325,user_325,Yes,6,7
+CUST0326,Male,20,9,Yes,2.9,4,904,Loves exploring new cuisines and traveling the world,Customer 326,user_326,Yes,6,4
+CUST0327,Male,23,4,No,5.96,5,456,Always learning and sharing my experiences,Customer 327,user_327,Yes,1,8
+CUST0328,Female,39,2,No,9.62,5,195,"Loves photography, music, and exploring new cultures",Customer 328,user_328,Yes,8,4
+CUST0329,Male,34,7,No,19,4,177,"Loves photography, music, and exploring new cultures",Customer 329,customer329,Yes,9,11
+CUST0330,Male,39,5,Yes,11.22,4,263,Tech geek who loves exploring cutting-edge solutions,Customer 330,user_330,Yes,4,6
+CUST0331,Female,24,5,Yes,18.63,5,154,Fitness fanatic with a love for outdoor adventures,Customer 331,user_331,Yes,1,5
+CUST0332,Male,22,7,Yes,9.43,2,654,Music lover,Customer 332,customer332,No,2,3
+CUST0333,Male,41,6,Yes,15.54,1,578,,Customer 333,user_333,Yes,3,Default
+CUST0334,Male,35,8,No,10.95,2,924,Traveler,Customer 334,customer334,No,2,Default
+CUST0335,Female,34,10,No,2.46,5,750,Creative thinker who enjoys innovation and challenges,Customer 335,user_335,Yes,7,10
+CUST0336,Male,50,1,No,17.5,3,750,Traveler,Customer 336,user_336,Yes,0,9
+CUST0337,Female,62,9,Yes,7.94,1,221,Foodie,Customer 337,user_337,No,1,Default
+CUST0338,Female,50,5,No,1.14,1,14,Traveler,Customer 338,user_338,No,8,Default
+CUST0339,Male,45,10,No,7.09,2,10,Love exploring new places,Customer 339,user_339,No,6,Default
+CUST0340,Female,18,7,No,8.35,1,455,Always learning,Customer 340,user_340,Yes,1,Default
+CUST0341,Female,17,0,Yes,12.19,2,443,Foodie,Customer 341,user_341,No,8,10
+CUST0342,Female,26,8,No,18.57,2,235,Shopaholic and proud,Customer 342,user_342,No,9,Default
+CUST0343,Female,36,5,No,6.48,,628,Enjoying,Customer 343,user_343,Yes,7,4
+CUST0344,Male,37,7,Yes,8.03,4,295,Passionate about sustainable living and healthy eating,Customer 344,user_344,Yes,1,8
+CUST0345,Female,46,10,No,18.03,1,93,Traveler,Customer 345,customer345,No,6,Default
+CUST0346,Male,48,0,Yes,15.46,3,445,Fitness,Customer 346,user_346,Yes,4,5
+CUST0347,Female,62,7,Yes,4.76,1,324,Foodie,Customer 347,customer347,No,5,Default
+CUST0348,Female,34,8,Yes,19.87,2,695,Tech geek,Customer 348,user_348,No,4,7
+CUST0349,Male,63,0,Yes,15.34,2,818,Foodie,Customer 349,user_349,No,7,7
+CUST0350,Female,39,8,Yes,9.36,3,605,Traveler,Customer 350,user_350,Yes,8,7
+CUST0351,Female,62,3,Yes,1.32,3,789,Shopaholic,Customer 351,user_351,Yes,7,9
+CUST0352,Female,51,1,Yes,12.22,3,510,Shopaholic,Customer 352,user_352,Yes,3,8
+CUST0353,Male,50,8,Yes,1.62,2,844,Enjoying,Customer 353,user_353,No,0,Default
+CUST0354,Male,33,9,Yes,6.71,5,961,"Foodie, traveler, and passionate about personal growth",Customer 354,user_354,Yes,0,1
+CUST0355,Female,61,0,No,2.81,1,46,Tech geek,Customer 355,user_355,No,1,Default
+CUST0356,Male,43,10,No,5.16,4,122,Always learning and sharing my experiences,Customer 356,user_356,Yes,8,4
+CUST0357,Female,61,10,No,5.55,1,418,Enjoying,Customer 357,user_357,No,7,Default
+CUST0358,Female,28,7,Yes,8.46,2,818,Foodie,Customer 358,user_358,No,10,11
+CUST0359,Male,61,1,No,6.91,2,470,Fitness,Customer 359,user_359,No,5,Default
+CUST0360,Male,45,9,Yes,5.67,4,776,Loves exploring new cuisines and traveling the world,Customer 360,user_360,Yes,3,8
+CUST0361,Male,42,7,Yes,1.62,5,504,Fitness fanatic with a love for outdoor adventures,Customer 361,user_361,Yes,8,4
+CUST0362,Female,62,7,Yes,10.28,2,303,Enjoying,Customer 362,customer362,No,1,Default
+CUST0363,Female,36,6,Yes,13.46,4,478,"Avid reader, tech enthusiast, and fitness lover",Customer 363,customer363,Yes,3,12
+CUST0364,Male,24,6,No,2.93,4,456,Fitness fanatic with a love for outdoor adventures,Customer 364,user_364,Yes,0,4
+CUST0365,Female,29,0,No,2.96,5,264,Always learning and sharing my experiences,Customer 365,user_365,Yes,2,2
+CUST0366,Male,56,8,Yes,5.48,2,891,Shopaholic and proud,Customer 366,user_366,Yes,5,Default
+CUST0367,Male,25,7,Yes,2.39,2,340,Love,Customer 367,user_367,No,9,Default
+CUST0368,Female,17,5,Yes,9.09,3,526,Foodie,Customer 368,user_368,Yes,0,10
+CUST0369,Female,26,8,Yes,2.26,4,471,Fitness fanatic with a love for outdoor adventures,Customer 369,user_369,Yes,3,11
+CUST0370,Female,38,6,Yes,7.72,4,583,Fitness fanatic with a love for outdoor adventures,Customer 370,customer370,Yes,4,4
+CUST0371,Male,29,6,Yes,6.79,2,110,Shopaholic,Customer 371,customer371,No,2,Default
+CUST0372,Female,50,8,No,11.23,2,159,Bookworm,Customer 372,user_372,Yes,2,Default
+CUST0373,Female,64,8,No,14.88,4,865,Passionate about sustainable living and healthy eating,Customer 373,user_373,Yes,0,9
+CUST0374,Female,57,8,Yes,7.38,2,291,Foodie,Customer 374,user_374,No,5,Default
+CUST0375,Male,27,9,Yes,7.63,5,85,Fitness fanatic with a love for outdoor adventures,Customer 375,customer375,Yes,1,4
+CUST0376,Female,58,7,Yes,8.58,2,94,Traveler,Customer 376,user_376,No,7,Default
+CUST0377,Male,30,1,No,19.21,5,385,Fitness fanatic with a love for outdoor adventures,Customer 377,user_377,Yes,0,8
+CUST0378,Male,17,1,No,6.31,2,838,Foodie,Customer 378,user_378,No,7,Default
+CUST0379,Female,26,9,Yes,14.41,1,174,Shopaholic,Customer 379,user_379,No,6,2
+CUST0380,Male,38,9,No,10.77,2,774,,Customer 380,user_380,Yes,1,Default
+CUST0381,Female,64,4,No,1.13,4,922,Fitness fanatic with a love for outdoor adventures,Customer 381,user_381,Yes,0,6
+CUST0382,Female,18,8,No,6.69,2,709,Passionate about photography,Customer 382,user_382,No,7,Default
+CUST0383,Female,56,7,No,14.04,3,885,Fitness,Customer 383,user_383,Yes,0,4
+CUST0384,Male,61,2,Yes,14.03,1,229,Fitness,Customer 384,user_384,No,6,Default
+CUST0385,Female,42,1,No,6.76,5,514,Adventure seeker and nature enthusiast,Customer 385,user_385,Yes,2,1
+CUST0386,Female,45,9,No,11.23,,842,Shopaholic,Customer 386,user_386,No,5,Default
+CUST0387,Male,43,10,No,8.74,2,741,Fitness,Customer 387,user_387,No,4,Default
+CUST0388,Female,27,1,No,16.58,4,525,Passionate about sustainable living and healthy eating,Customer 388,user_388,Yes,0,4
+CUST0389,Female,21,0,No,16.93,4,64,Adventure seeker and nature enthusiast,Customer 389,customer389,Yes,3,7
+CUST0390,Female,43,8,Yes,18.07,3,456,Shopaholic,Customer 390,user_390,Yes,4,10
+CUST0391,Female,42,4,Yes,4.23,5,303,"Avid reader, tech enthusiast, and fitness lover",Customer 391,user_391,Yes,10,3
+CUST0392,Male,19,10,No,1.38,5,374,"Avid reader, tech enthusiast, and fitness lover",Customer 392,user_392,Yes,1,5
+CUST0393,Male,56,10,Yes,2.51,5,488,"Loves photography, music, and exploring new cultures",Customer 393,customer393,Yes,2,12
+CUST0394,Female,45,1,Yes,11.94,1,634,Love,Customer 394,user_394,No,6,Default
+CUST0395,Male,26,3,Yes,14.74,2,359,,Customer 395,customer395,Yes,6,Default
+CUST0396,Male,55,1,Yes,3.66,5,326,"Foodie, traveler, and passionate about personal growth",Customer 396,user_396,Yes,9,11
+CUST0397,Male,53,2,Yes,18.79,2,697,Foodie,Customer 397,user_397,No,10,Default
+CUST0398,Male,17,2,No,10.87,1,741,Love,Customer 398,customer398,No,0,Default
+CUST0399,Male,26,2,Yes,10.78,4,389,"Foodie, traveler, and passionate about personal growth",Customer 399,user_399,Yes,4,2
+CUST0400,Female,28,6,No,106284.7114,2,815,Love,Customer 400,user_400,No,9,Default
+CUST0401,Female,46,1,Yes,8.53,4,422,"Avid reader, tech enthusiast, and fitness lover",Customer 401,user_401,Yes,5,4
+CUST0402,Male,64,10,No,18.7,1,349,Enjoying the small moments,Customer 402,user_402,Yes,2,Default
+CUST0403,Female,20,6,Yes,9.44,4,-1,Always learning and sharing my experiences,Customer 403,user_403,Yes,3,7
+CUST0404,Male,63,10,No,2.46,1,96,Always learning,Customer 404,user_404,No,4,Default
+CUST0405,Female,37,2,No,1.67,1,365,Enjoying,Customer 405,user_405,No,0,Default
+CUST0406,Female,26,3,No,6.23,1,516,Food lover,Customer 406,user_406,Yes,10,3
+CUST0407,Female,20,6,Yes,14.39,1,320,Tech geek,Customer 407,user_407,No,7,12
+CUST0408,Female,59,0,Yes,7.45,2,401,Fitness,Customer 408,user_408,No,1,Default
+CUST0409,Female,32,10,No,6.04,2,754,Food lover,Customer 409,user_409,No,2,Default
+CUST0410,Female,20,6,Yes,14.17,,316,Enjoying,Customer 410,user_410,No,5,2
+CUST0411,Male,44,7,No,2.14,1,164,,Customer 411,user_411,Yes,4,Default
+CUST0412,Male,62,1,No,9.66,,75,Adventure seeker,Customer 412,user_412,Yes,9,Default
+CUST0413,Female,51,3,No,13.11,2,468,Passionate about photography,Customer 413,customer413,Yes,1,4
+CUST0414,Male,47,4,Yes,15.39,1,609,Enjoying the small moments,Customer 414,user_414,Yes,7,10
+CUST0415,Male,32,7,Yes,13.43,1,176,Traveler and dreamer,Customer 415,user_415,No,1,Default
+CUST0416,Male,45,4,Yes,11.89,2,903,Enjoying,Customer 416,customer416,No,1,Default
+CUST0417,Male,31,7,No,16.26,2,571,Always learning,Customer 417,user_417,No,6,Default
+CUST0418,Female,53,2,Yes,4.71,2,544,Passionate about photography,Customer 418,user_418,Yes,4,Default
+CUST0419,Female,23,6,No,13.27,4,168,"Avid reader, tech enthusiast, and fitness lover",Customer 419,user_419,Yes,3,4
+CUST0420,Female,37,5,Yes,6.04,4,881,"Foodie, traveler, and passionate about personal growth",Customer 420,user_420,Yes,1,2
+CUST0421,Male,25,9,Yes,4.4,,843,Traveler,Customer 421,user_421,Yes,8,9
+CUST0422,Female,41,1,No,8.85,1,493,Traveler,Customer 422,user_422,No,0,Default
+CUST0423,Female,36,1,No,16.82,3,495,Shopaholic,Customer 423,user_423,Yes,8,7
+CUST0424,Male,32,5,Yes,5.02,1,78,Foodie,Customer 424,user_424,No,7,Default
+CUST0425,Female,31,9,Yes,6,2,548,Enjoying,Customer 425,user_425,No,6,Default
+CUST0426,Female,62,7,Yes,4.77,4,642,"Avid reader, tech enthusiast, and fitness lover",Customer 426,user_426,Yes,0,8
+CUST0427,Male,49,0,No,5.37,2,348,Love,Customer 427,user_427,No,0,3
+CUST0428,Female,32,1,No,4.8,1,982,Passionate about photography,Customer 428,user_428,Yes,8,Default
+CUST0429,Female,27,0,Yes,15.55,2,395,Food lover,Customer 429,user_429,Yes,9,1
+CUST0430,Female,29,0,Yes,14.73,3,64,Love,Customer 430,customer430,Yes,8,12
+CUST0431,Male,29,10,Yes,15.31,4,243,"Foodie, traveler, and passionate about personal growth",Customer 431,user_431,Yes,5,11
+CUST0432,Male,30,2,No,16.48,1,-4,Enjoying,Customer 432,user_432,No,7,8
+CUST0433,Female,44,3,Yes,2.37,,298,Passionate about photography,Customer 433,customer433,Yes,0,4
+CUST0434,Male,32,1,No,15.81,1,360,Love,Customer 434,user_434,No,6,Default
+CUST0435,Male,63,7,No,4.67,2,10,Enjoying,Customer 435,user_435,No,8,Default
+CUST0436,Female,21,9,Yes,10.82,4,855,Adventure seeker and nature enthusiast,Customer 436,user_436,Yes,1,7
+CUST0437,Male,42,2,Yes,15.66,2,446,Traveler,Customer 437,user_437,No,5,Default
+CUST0438,Female,36,7,Yes,8.03,5,954,Fitness fanatic with a love for outdoor adventures,Customer 438,user_438,Yes,6,11
+CUST0439,Female,49,10,No,5.87,2,414,Traveler and dreamer,Customer 439,customer439,Yes,6,4
+CUST0440,Female,63,9,Yes,12.87,2,782,Bookworm,Customer 440,user_440,No,5,11
+CUST0441,Female,52,9,Yes,4.03,1,403,Shopaholic,Customer 441,customer441,No,9,8
+CUST0442,Male,18,5,Yes,3.3,3,271,Enjoying,Customer 442,customer442,Yes,0,3
+CUST0443,Male,62,6,Yes,14.55,2,259,Love exploring new places,Customer 443,user_443,No,4,Default
+CUST0444,Male,51,4,Yes,11.74,1,925,Foodie,Customer 444,user_444,No,8,Default
+CUST0445,Female,21,6,No,13.1,5,273,Creative thinker who enjoys innovation and challenges,Customer 445,user_445,Yes,4,11
+CUST0446,Female,24,8,Yes,17.48,3,828,Fitness,Customer 446,user_446,Yes,9,2
+CUST0447,Female,36,6,Yes,17.4,3,716,Enjoying,Customer 447,user_447,Yes,5,11
+CUST0448,Male,25,4,No,16.94,1,934,Love,Customer 448,user_448,No,7,8
+CUST0449,Female,41,6,No,14.84,3,178,Love,Customer 449,user_449,Yes,7,11
+CUST0450,Female,39,4,No,7.25,3,609,Fitness,Customer 450,user_450,Yes,8,10
+CUST0451,Male,27,7,Yes,8.35,3,625,Enjoying,Customer 451,user_451,Yes,2,8
+CUST0452,Female,28,4,No,1.47,4,736,"Foodie, traveler, and passionate about personal growth",Customer 452,user_452,Yes,5,12
+CUST0453,Male,60,3,No,3.07,4,47,Fitness fanatic with a love for outdoor adventures,Customer 453,customer453,Yes,2,4
+CUST0454,Male,52,5,Yes,4.58,4,919,Fitness fanatic with a love for outdoor adventures,Customer 454,user_454,Yes,7,4
+CUST0455,Female,42,5,Yes,8.86,1,370,Foodie,Customer 455,user_455,No,8,Default
+CUST0456,Female,52,3,Yes,14.41,2,802,Shopaholic,Customer 456,user_456,No,10,6
+CUST0457,Male,41,10,No,8.07,2,126,Enjoying,Customer 457,user_457,No,1,Default
+CUST0458,Male,44,4,Yes,8.15,1,828,Fitness,Customer 458,user_458,No,9,Default
+CUST0459,Female,45,1,Yes,6.53,1,681,Foodie,Customer 459,user_459,No,10,Default
+CUST0460,Male,31,2,Yes,8.11,5,296,"Avid reader, tech enthusiast, and fitness lover",Customer 460,user_460,Yes,8,8
+CUST0461,Male,39,7,Yes,8.57,1,947,Shopaholic,Customer 461,customer461,No,1,11
+CUST0462,Female,45,9,No,9.9,4,727,Passionate about sustainable living and healthy eating,Customer 462,user_462,Yes,2,8
+CUST0463,Male,60,8,Yes,9.47,2,878,Food lover,Customer 463,user_463,No,9,1
+CUST0464,Female,31,7,No,14.86,,1,Music lover,Customer 464,user_464,No,2,Default
+CUST0465,Male,56,1,No,4.49,1,724,Shopaholic,Customer 465,user_465,No,10,Default
+CUST0466,Male,45,0,No,2.19,1,247,Adventure seeker,Customer 466,customer466,No,9,Default
+CUST0467,Male,42,1,Yes,1.79,1,227,Enjoying,Customer 467,user_467,No,8,Default
+CUST0468,Male,32,1,Yes,16.14,5,104,Adventure seeker and nature enthusiast,Customer 468,user_468,Yes,6,12
+CUST0469,Female,19,6,No,9.14,2,915,Adventure seeker,Customer 469,customer469,Yes,8,Default
+CUST0470,Female,44,9,Yes,2.14,2,233,Shopaholic,Customer 470,user_470,No,6,Default
+CUST0471,Male,50,2,No,13.45,4,453,"Foodie, traveler, and passionate about personal growth",Customer 471,user_471,Yes,6,2
+CUST0472,Female,55,10,No,16.22,1,333,Shopaholic,Customer 472,user_472,No,0,Default
+CUST0473,Female,20,4,Yes,18.56,2,315,Shopaholic,Customer 473,user_473,No,1,Default
+CUST0474,Male,59,6,No,8.89,2,959,Tech geek,Customer 474,user_474,No,0,Default
+CUST0475,Female,52,3,No,8.32,3,209,Foodie,Customer 475,customer475,Yes,3,5
+CUST0476,Male,64,9,Yes,15.1,3,119,Enjoying,Customer 476,customer476,Yes,1,7
+CUST0477,Male,52,2,Yes,3.49,1,289,Enjoying,Customer 477,user_477,No,9,12
+CUST0478,Female,38,1,No,2.11,3,269,Traveler,Customer 478,user_478,Yes,10,1
+CUST0479,Male,64,1,No,11.04,3,99,Enjoying,Customer 479,user_479,Yes,2,9
+CUST0480,Male,59,1,Yes,5.43,2,895,Shopaholic,Customer 480,user_480,No,6,Default
+CUST0481,Male,26,1,Yes,13.46,5,131,"Avid reader, tech enthusiast, and fitness lover",Customer 481,user_481,Yes,7,4
+CUST0482,Female,58,5,No,6.45,2,587,Foodie,Customer 482,user_482,Yes,3,6
+CUST0483,Female,52,5,Yes,10.08,4,626,Loves exploring new cuisines and traveling the world,Customer 483,user_483,Yes,3,4
+CUST0484,Male,28,6,No,111422.1669,,419,Enjoying,Customer 484,user_484,Yes,0,1
+CUST0485,Male,32,4,Yes,18.13,3,575,Enjoying,Customer 485,customer485,Yes,1,2
+CUST0486,Male,21,1,Yes,6.12,4,138,Tech geek who loves exploring cutting-edge solutions,Customer 486,user_486,Yes,6,12
+CUST0487,Female,35,3,Yes,18.77,1,374,Love,Customer 487,user_487,No,7,Default
+CUST0488,Male,23,8,Yes,12.12,1,156,Music lover,Customer 488,user_488,No,0,8
+CUST0489,Female,24,5,No,1.65,5,846,Adventure seeker and nature enthusiast,Customer 489,user_489,Yes,10,11
+CUST0490,Female,42,2,Yes,18.91,1,2,Enjoying the small moments,Customer 490,user_490,Yes,7,Default
+CUST0491,Female,17,3,No,14.86,2,4,Fitness,Customer 491,customer491,No,9,Default
+CUST0492,Male,31,0,No,4.28,5,499,"Avid reader, tech enthusiast, and fitness lover",Customer 492,user_492,Yes,0,1
+CUST0493,Male,51,1,No,7.01,1,419,Fitness,Customer 493,user_493,No,0,4
+CUST0494,Male,48,1,Yes,2.94,1,387,Passionate about photography,Customer 494,user_494,No,1,Default
+CUST0495,Male,18,5,Yes,16.77,2,831,Enjoying,Customer 495,user_495,No,8,Default
+CUST0496,Male,57,7,Yes,1.75,2,991,,Customer 496,customer496,No,6,Default
+CUST0497,Male,29,10,Yes,5.42,5,136,"Loves photography, music, and exploring new cultures",Customer 497,user_497,Yes,2,3
+CUST0498,Male,48,1,No,19.55,1,310,Enjoying the small moments,Customer 498,user_498,Yes,6,Default
+CUST0499,Male,24,5,No,12.75,4,812,Always learning and sharing my experiences,Customer 499,user_499,Yes,7,7
+CUST0500,Female,55,2,No,2.88,1,842,Fitness,Customer 500,customer500,No,3,Default
+CUST0501,Female,50,4,Yes,19.13,1,756,Fitness,Customer 501,user_501,No,3,Default
+CUST0502,Male,47,5,Yes,16.97,1,773,Bookworm,Customer 502,user_502,Yes,6,4
+CUST0503,Female,53,7,No,14.46,1,345,Always learning,Customer 503,user_503,No,6,1
+CUST0504,Male,26,5,Yes,5.64,2,239,Traveler,Customer 504,user_504,No,7,8
+CUST0505,Male,62,3,No,13.48,2,593,Fitness enthusiast,Customer 505,user_505,Yes,7,Default
+CUST0506,Male,41,1,Yes,19.44,2,549,Traveler,Customer 506,user_506,No,1,Default
+CUST0507,Male,27,2,No,5.92,3,328,Foodie,Customer 507,user_507,Yes,9,5
+CUST0508,Male,36,4,No,15.07,4,455,Creative thinker who enjoys innovation and challenges,Customer 508,user_508,Yes,0,9
+CUST0509,Male,46,5,No,1.66,4,32,Fitness fanatic with a love for outdoor adventures,Customer 509,user_509,Yes,5,10
+CUST0510,Male,48,7,No,6.44,5,210,Passionate about sustainable living and healthy eating,Customer 510,user_510,Yes,6,9
+CUST0511,Female,47,5,Yes,12.38,3,802,Love,Customer 511,user_511,Yes,6,3
+CUST0512,Female,20,5,No,17.68,1,567,,Customer 512,user_512,No,3,2
+CUST0513,Male,22,4,Yes,19.1,2,742,Tech geek,Customer 513,user_513,No,8,Default
+CUST0514,Male,37,9,No,4.48,2,660,Love,Customer 514,customer514,No,8,9
+CUST0515,Female,60,1,No,6.47,2,594,Fitness,Customer 515,user_515,No,9,Default
+CUST0516,Male,31,7,No,4.73,1,934,Fitness,Customer 516,user_516,No,10,Default
+CUST0517,Male,64,4,Yes,19.33,1,279,Enjoying,Customer 517,user_517,No,6,Default
+CUST0518,Female,40,8,Yes,12.86,1,464,Fitness enthusiast,Customer 518,user_518,Yes,5,Default
+CUST0519,Female,56,6,No,4.57,1,979,Foodie,Customer 519,user_519,No,6,Default
+CUST0520,Male,43,8,No,5.53,2,994,Love exploring new places,Customer 520,user_520,No,1,Default
+CUST0521,Male,18,2,Yes,5.81,2,149,Fitness,Customer 521,user_521,No,6,7
+CUST0522,Male,42,6,Yes,18.4,1,689,Shopaholic,Customer 522,user_522,Yes,8,11
+CUST0523,Female,63,2,Yes,9.9,1,740,Food lover,Customer 523,customer523,No,10,Default
+CUST0524,Female,28,9,Yes,7.71,4,857,"Foodie, traveler, and passionate about personal growth",Customer 524,user_524,Yes,5,9
+CUST0525,Male,46,9,No,17.25,1,277,Foodie,Customer 525,user_525,No,8,Default
+CUST0526,Female,56,7,No,9.21,2,259,Foodie,Customer 526,user_526,No,6,Default
+CUST0527,Male,63,2,Yes,19.28,5,641,Always learning and sharing my experiences,Customer 527,user_527,Yes,4,10
+CUST0528,Male,25,8,No,10.58,2,772,Shopaholic,Customer 528,user_528,Yes,5,12
+CUST0529,Female,58,4,Yes,5.59,1,746,Foodie,Customer 529,user_529,No,10,Default
+CUST0530,Male,44,7,No,1.82,4,122,Adventure seeker and nature enthusiast,Customer 530,user_530,Yes,6,6
+CUST0531,Female,35,2,No,9.98,2,66,Love,Customer 531,user_531,No,4,Default
+CUST0532,Female,41,7,Yes,1.84,4,105,Passionate about sustainable living and healthy eating,Customer 532,user_532,Yes,4,8
+CUST0533,Male,59,0,Yes,9.29,2,681,Enjoying,Customer 533,user_533,No,7,12
+CUST0534,Male,53,5,Yes,4.26,2,160,Love exploring new places,Customer 534,user_534,Yes,3,Default
+CUST0535,Female,41,5,Yes,3.44,2,458,Enjoying,Customer 535,user_535,No,8,11
+CUST0536,Male,38,9,Yes,19.99,1,832,Traveler and dreamer,Customer 536,user_536,No,2,3
+CUST0537,Male,29,4,Yes,3.48,2,291,Love,Customer 537,user_537,No,6,Default
+CUST0538,Male,42,7,No,8.97,4,861,"Avid reader, tech enthusiast, and fitness lover",Customer 538,user_538,Yes,0,5
+CUST0539,Male,43,3,No,10.71,1,776,Enjoying,Customer 539,customer539,No,4,Default
+CUST0540,Female,55,5,Yes,19.56,2,668,Fitness enthusiast,Customer 540,user_540,Yes,0,4
+CUST0541,Male,51,8,Yes,4.32,2,516,Traveler,Customer 541,user_541,No,4,6
+CUST0542,Male,59,10,No,12.33,1,871,Shopaholic,Customer 542,user_542,No,3,1
+CUST0543,Female,32,8,Yes,2.74,3,995,Love,Customer 543,user_543,Yes,1,7
+CUST0544,Female,37,10,No,5.83,1,177,Traveler,Customer 544,customer544,No,6,5
+CUST0545,Female,29,3,No,10.93,1,130,Enjoying,Customer 545,user_545,No,9,5
+CUST0546,Male,32,3,No,13.55,2,118,Fitness,Customer 546,user_546,No,2,Default
+CUST0547,Female,54,8,Yes,2.15,2,831,Bookworm,Customer 547,user_547,No,0,5
+CUST0548,Female,44,0,Yes,17.46,1,647,Shopaholic,Customer 548,user_548,No,3,Default
+CUST0549,Female,20,9,No,3.37,4,680,Adventure seeker and nature enthusiast,Customer 549,user_549,Yes,9,6
+CUST0550,Male,55,2,No,18.33,,861,Music lover,Customer 550,user_550,No,7,Default
+CUST0551,Male,45,9,No,17.8,5,951,Fitness fanatic with a love for outdoor adventures,Customer 551,customer551,Yes,4,4
+CUST0552,Male,61,10,Yes,14.15,3,171,Shopaholic,Customer 552,user_552,Yes,5,10
+CUST0553,Female,18,1,Yes,17.09,1,467,Fitness enthusiast,Customer 553,user_553,Yes,9,Default
+CUST0554,Male,64,2,Yes,14.36,2,554,Fitness enthusiast,Customer 554,user_554,No,4,Default
+CUST0555,Female,55,9,Yes,5.15,1,519,Foodie,Customer 555,user_555,No,3,Default
+CUST0556,Male,23,10,No,5.36,3,392,Traveler,Customer 556,user_556,Yes,0,12
+CUST0557,Male,29,5,No,13.47,5,596,Fitness fanatic with a love for outdoor adventures,Customer 557,user_557,Yes,6,7
+CUST0558,Male,26,9,Yes,13.36,3,191,Shopaholic,Customer 558,user_558,Yes,4,12
+CUST0559,Male,59,10,No,1.94,1,304,Traveler,Customer 559,user_559,No,4,1
+CUST0560,Female,22,10,No,16.87,1,392,Foodie,Customer 560,user_560,No,10,Default
+CUST0561,Male,57,1,No,12.62,4,693,Always learning and sharing my experiences,Customer 561,user_561,Yes,0,4
+CUST0562,Male,62,1,Yes,5.2,1,71,Love,Customer 562,user_562,No,2,Default
+CUST0563,Female,52,0,No,13.98,1,234,Food lover,Customer 563,user_563,No,0,Default
+CUST0564,Female,37,4,Yes,9.58,2,41,Love exploring new places,Customer 564,user_564,No,4,Default
+CUST0565,Female,49,5,No,18.5,3,52,Traveler,Customer 565,customer565,Yes,3,9
+CUST0566,Male,23,5,No,11.56,3,716,Traveler,Customer 566,user_566,Yes,5,1
+CUST0567,Male,32,9,Yes,4.4,1,239,Traveler,Customer 567,user_567,No,8,7
+CUST0568,Male,36,6,Yes,7.76,1,299,Love,Customer 568,user_568,No,8,Default
+CUST0569,Female,42,7,Yes,14.62,2,190,,Customer 569,user_569,Yes,4,Default
+CUST0570,Male,48,5,No,16.57,5,597,Always learning and sharing my experiences,Customer 570,customer570,Yes,5,4
+CUST0571,Male,64,6,Yes,19.87,1,545,Love,Customer 571,user_571,No,7,Default
+CUST0572,Female,46,6,No,7.38,5,920,Fitness fanatic with a love for outdoor adventures,Customer 572,user_572,Yes,2,3
+CUST0573,Male,57,2,Yes,7.51,5,798,"Avid reader, tech enthusiast, and fitness lover",Customer 573,customer573,Yes,5,6
+CUST0574,Female,58,8,No,1.31,2,160,Foodie,Customer 574,user_574,No,7,2
+CUST0575,Male,29,5,Yes,2.64,1,399,Always learning,Customer 575,user_575,Yes,8,Default
+CUST0576,Female,57,7,Yes,14.69,1,973,Always learning,Customer 576,user_576,Yes,0,2
+CUST0577,Male,48,8,No,17.21,1,10,,Customer 577,user_577,Yes,0,Default
+CUST0578,Female,40,3,Yes,8.73,2,196,Enjoying,Customer 578,user_578,No,10,Default
+CUST0579,Male,38,5,Yes,1.79,1,463,Love exploring new places,Customer 579,user_579,Yes,3,Default
+CUST0580,Male,23,5,Yes,19.43,,689,Fitness enthusiast,Customer 580,user_580,No,6,Default
+CUST0581,Female,43,6,Yes,14.37,1,562,Shopaholic,Customer 581,customer581,No,0,Default
+CUST0582,Male,61,6,No,3.86,3,408,Fitness,Customer 582,user_582,Yes,10,12
+CUST0583,Female,54,2,No,3.1,1,286,Love exploring new places,Customer 583,user_583,No,2,9
+CUST0584,Male,23,2,No,9.07,1,549,Bookworm,Customer 584,user_584,Yes,1,3
+CUST0585,Male,24,5,No,7.03,1,995,Fitness enthusiast,Customer 585,user_585,No,1,Default
+CUST0586,Male,62,10,Yes,6.29,1,837,Music lover,Customer 586,customer586,No,6,12
+CUST0587,Female,30,6,Yes,12.1,5,744,"Foodie, traveler, and passionate about personal growth",Customer 587,user_587,Yes,6,12
+CUST0588,Male,27,10,Yes,2.77,3,981,Love,Customer 588,user_588,Yes,5,4
+CUST0589,Female,36,4,Yes,11.26,5,666,Adventure seeker and nature enthusiast,Customer 589,user_589,Yes,7,9
+CUST0590,Male,17,10,No,18.13,2,78,Love,Customer 590,customer590,No,2,Default
+CUST0591,Female,35,8,No,19.71,4,549,Tech geek who loves exploring cutting-edge solutions,Customer 591,user_591,Yes,9,12
+CUST0592,Female,50,0,No,4.59,1,355,Shopaholic and proud,Customer 592,customer592,Yes,5,Default
+CUST0593,Male,56,3,No,6.35,3,761,Fitness,Customer 593,user_593,Yes,7,5
+CUST0594,Male,31,3,Yes,19.49,5,426,Adventure seeker and nature enthusiast,Customer 594,customer594,Yes,2,4
+CUST0595,Male,36,10,Yes,15.93,4,50,"Foodie, traveler, and passionate about personal growth",Customer 595,customer595,Yes,5,7
+CUST0596,Female,36,10,Yes,16.03,,411,Traveler,Customer 596,user_596,Yes,3,4
+CUST0597,Female,28,3,Yes,19.42,1,84,Shopaholic,Customer 597,user_597,No,10,Default
+CUST0598,Female,22,0,No,11.24,1,953,,Customer 598,user_598,Yes,6,Default
+CUST0599,Female,49,5,No,11.01,5,451,Passionate about sustainable living and healthy eating,Customer 599,user_599,Yes,5,9
+CUST0600,Female,24,4,No,4.87,2,123,Traveler and dreamer,Customer 600,user_600,Yes,9,Default
